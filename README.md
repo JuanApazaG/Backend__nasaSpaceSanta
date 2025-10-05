@@ -1,6 +1,6 @@
 # NASA SPACE APPS CHALLENGE 2025
 
-## "¿Qué significa la 'P' en 'Clima'? ¡Probabilidad!"
+## "¿Lloverá en mi desfile?"
 
 ### Sistema de Análisis Climático Probabilístico con NASA POWER API
 
@@ -33,3 +33,4 @@ cd backend_hackathon
 
 # Instalar dependencias
 pip install -r requirements.txt
+
